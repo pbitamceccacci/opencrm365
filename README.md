@@ -12,4 +12,5 @@ Key Features:
 ✅ Affordable Alternative to Dynamics CRM – Access the essential tools you need without the high price tag.
 
 ## Who is Open CRM 365 for?
+
 If you're a small or medium-sized business seeking to boost customer relationships, streamline sales, and grow without the financial commitment of larger platforms, Open CRM 365 is for you!
