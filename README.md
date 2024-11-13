@@ -2,6 +2,9 @@
 
 Welcome to Open CRM 365 – the open-source CRM built on Microsoft Power Platform! 
 
+![alt](./asset/img1.png)
+
+
 Open CRM 365 brings you all the essential features of a modern CRM without the high costs. Designed for small and medium-sized businesses, this powerful tool leverages Microsoft’s reliable Power Platform to deliver a streamlined, intuitive, and cost-effective CRM experience.
 
 ## Key Features
@@ -15,3 +18,6 @@ Open CRM 365 brings you all the essential features of a modern CRM without the h
 ## Who is Open CRM 365 for?
 
 If you're a small or medium-sized business seeking to boost customer relationships, streamline sales, and grow without the financial commitment of larger platforms, Open CRM 365 is for you!
+
+## Installation
+
